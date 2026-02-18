@@ -6,8 +6,8 @@
 #include "nvs_flash.h"
 #include "esp_netif.h"
 
-#define WIFI_SSID "Home 2.4G"
-#define WIFI_PASS "SUB9447670933"
+#define WIFI_SSID "Connecting..."
+#define WIFI_PASS "Error501"
 
 static const char *TAG = "CSI";
 
