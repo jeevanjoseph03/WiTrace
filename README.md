@@ -244,12 +244,23 @@ This project is open-source. Please refer to the [LICENSE](LICENSE) file for det
 
 ---
 
+## 👨‍💻 Authors
+
+**WiTrace** was collaboratively developed by:
+
+- [@mizhab-as](https://github.com/mizhab-as/WiTrace)
+- [Jeevan Joseph](https://github.com/jeevanjoseph03)
+- [Irfan](https://github.com/Irfan-34)
+- [Muzammil](https://github.com/muzml)
+
+---
+
 ## 🙏 Acknowledgements
 
-- Original project by [@mizhab-as](https://github.com/mizhab-as/WiTrace)
-- [Espressif ESP-IDF](https://github.com/espressif/esp-idf) for the WiFi CSI API
+- [Espressif ESP-IDF](https://github.com/espressif/esp-idf) for the WiFi CSI API  
 - Research inspiration from WiFi-based passive sensing literature
 
+---
 ---
 
 <div align="center">
