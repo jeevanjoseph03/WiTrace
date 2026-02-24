@@ -248,7 +248,7 @@ This project is open-source. Please refer to the [LICENSE](LICENSE) file for det
 
 **WiTrace** was collaboratively developed by:
 
-- [@mizhab-as](https://github.com/mizhab-as/WiTrace)
+- [Mizhab](https://github.com/mizhab-as)
 - [Jeevan Joseph](https://github.com/jeevanjoseph03)
 - [Irfan](https://github.com/Irfan-34)
 - [Muzammil](https://github.com/muzml)
